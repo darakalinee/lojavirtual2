@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "709274507615",
+    "project_id": "atacarejo-37290",
+    "storage_bucket": "atacarejo-37290.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709274507615:android:0e525c97cb9e8d62d0feea",
+        "android_client_info": {
+          "package_name": "br.com.atacarejo.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709274507615-niajk6hb0efafe7ge5006cc3jjljilfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATiwyr_HvXKaS7VnEHTYSH7Zx63V1dszk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709274507615-niajk6hb0efafe7ge5006cc3jjljilfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709274507615:android:d69ef034cb00a614d0feea",
+        "android_client_info": {
+          "package_name": "br.com.atacarejo.loja_virtual.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709274507615-niajk6hb0efafe7ge5006cc3jjljilfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATiwyr_HvXKaS7VnEHTYSH7Zx63V1dszk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709274507615-niajk6hb0efafe7ge5006cc3jjljilfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709274507615:android:b53194b8af634ff6d0feea",
+        "android_client_info": {
+          "package_name": "br.com.atacarejo.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709274507615-niajk6hb0efafe7ge5006cc3jjljilfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATiwyr_HvXKaS7VnEHTYSH7Zx63V1dszk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709274507615-niajk6hb0efafe7ge5006cc3jjljilfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
